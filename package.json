@@ -1,0 +1,42 @@
+{
+  "name": "twitter-heart",
+  "version": "1.0.0",
+  "description": "Twitter heart animation (Like Component)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshmakadia/twitter-heart.git"
+  },
+  "keywords": [
+    "twitter",
+    "twitter-heart",
+    "animation",
+    "like"
+  ],
+  "author": "Harsh Makadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshmakadia/twitter-heart/issues"
+  },
+  "homepage": "https://github.com/Harshmakadia/twitter-heart#readme",
+  "dependencies": {
+    "react": "^16.9.0",
+    "webpack": "^4.28"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack-cli": "^3.3.7"
+  }
+}

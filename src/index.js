@@ -28,4 +28,8 @@ class TwitterHeart extends React.Component{
   }
 }
 
+TwitterHeart.defaultProps = {
+  isLiked: false
+}
+
 export default TwitterHeart;

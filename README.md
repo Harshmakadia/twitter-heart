@@ -1,4 +1,4 @@
-# twitter-heart
+# twitter-heart ❤️
 NPM Package to twitter heart (Like component)
 ## Here is a quick preview
 

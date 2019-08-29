@@ -1,7 +1,7 @@
 {
   "name": "twitter-heart",
-  "version": "1.0.0",
-  "description": "Twitter heart animation (Like Component)",
+  "version": "1.0.1",
+  "description": "Twitter heart animation (Like Component) ❤️",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

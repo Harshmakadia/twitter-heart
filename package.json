@@ -1,8 +1,8 @@
 {
   "name": "twitter-heart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Twitter heart animation (Like Component) ❤️",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch",
